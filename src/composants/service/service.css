@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+}
+.container p{
+  padding: 10px;  
+  border: 1px solid blue;
+}
